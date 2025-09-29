@@ -2,7 +2,7 @@
 
 A production-ready **Todo API** built using **Node.js**, **Express**, and **Sequelize ORM**. This API provides a robust foundation for managing to-do items with full CRUD operations, data validation, error handling, and PostgreSQL database integration.
 
-**_Developed by Mahmoud Saad for DryveNow company in almost 2 hours_**
+**_Developed by Mahmoud Saad for DryveNow company in almost 2 hours_**.
 
 ## 🌟 Features
 
